@@ -1,0 +1,14 @@
+{
+  "SKU-KT-104": {
+    "product_id": "SKU-KT-104",
+    "available_qty": 3,
+    "location_id": "BKK-DC",
+    "as_of": "2026-07-31T11:40:00+07:00"
+  },
+  "SKU-BD-220": {
+    "product_id": "SKU-BD-220",
+    "available_qty": 12,
+    "location_id": "BKK-DC",
+    "as_of": "2026-07-31T11:40:00+07:00"
+  }
+}

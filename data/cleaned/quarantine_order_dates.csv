@@ -1,0 +1,2 @@
+order_id,order_date,order_date_clean,date_status,date_from_order_id,product_id,quantity,reason
+ORD-260730-2201,07/08/2026,,ambiguous,2026-07-30,SKU-0005,1,วันที่กำกวม: อ่านได้ทั้ง 7 ส.ค. และ 8 ก.ค. และไม่ตรงกับวันที่ใน order_id

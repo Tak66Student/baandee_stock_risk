@@ -1,0 +1,5 @@
+category,supplier_id,supplier_name,lead_time_days,min_order_qty
+Bathroom,SUP-BATH,Demo Bath Supply,5,10
+Kitchen,SUP-KIT,Demo Kitchenware,7,6
+Storage,SUP-STO,Demo Storage Co.,7,12
+Bedding,SUP-BED,Demo Textile,10,8

@@ -1,0 +1,5 @@
+issue,rows,action,evidence
+วันที่รูปแบบ วัน/เดือน/ปี ที่ตีความได้แบบเดียว,1,แปลงเป็น ปี-เดือน-วัน,ส่วนแรกของวันที่มากกว่า 12 จึงเป็นวันแน่นอน
+วันที่กำกวม (07/08/2026),1,ไม่นับในยอดขาย กักไว้ให้คนตรวจ (quarantine_order_dates.csv),อ่านได้ 2 แบบ และไม่ตรงกับวันที่ใน order_id
+"ชื่อหมวดสินค้าไม่สม่ำเสมอ (ตัวพิมพ์เล็ก, 'Bed room')",9,แปลงเป็น 4 หมวดมาตรฐานตาม CATEGORY_MAP,SKU-0019: storage; SKU-0023: Bed room; SKU-0038: kitchen; SKU-0046: Bed room; SKU-0057: bedding; SKU-0069: Bed room; SKU-0076: bedding; SKU-KT-104: kitchen; SKU-BD-220: Bed room
+สต็อกสองแหล่งเวลาไม่ตรงกัน,2,ใช้ค่าล่าสุด และเก็บ stock_as_of กับ stock_source,SKU-KT-104: 8→3; SKU-BD-220: 0→12
